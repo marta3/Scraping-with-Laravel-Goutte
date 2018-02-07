@@ -1,0 +1,17 @@
+.greeting{
+	text-align:center;
+	    width: 50%;
+    margin-left: 30%
+}
+
+.wish{
+	text-align: center;;
+}
+.gly{
+    font-size: 130%;
+    color: red;}
+
+.navbar-default .navbar-nav>li>a {
+    color: #e50000;
+    padding-right: 50%;
+}
